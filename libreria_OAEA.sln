@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libreria_OAEA", "libreria_OAEA.csproj", "{37AB7FF2-FBAD-4B5B-8280-301A5414F7CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37AB7FF2-FBAD-4B5B-8280-301A5414F7CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37AB7FF2-FBAD-4B5B-8280-301A5414F7CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37AB7FF2-FBAD-4B5B-8280-301A5414F7CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37AB7FF2-FBAD-4B5B-8280-301A5414F7CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D0ED2A7-ABB4-41C8-9FA8-434FEFDA909B}
+	EndGlobalSection
+EndGlobal
